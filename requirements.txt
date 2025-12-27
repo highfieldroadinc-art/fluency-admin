@@ -1,4 +1,8 @@
 streamlit
+fastapi
+uvicorn
+yt-dlp
 moviepy
 openai
 supabase
+pydantic
